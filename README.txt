@@ -1,0 +1,1 @@
+All virtual machine files are already compiled, so simply select the folder from the VM Emulator to run the game. The game will deliver additional instructions.
